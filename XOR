@@ -1,0 +1,9 @@
+def solveMeFirst(a,b):
+    s=a+b
+    print(s)
+	# Hint: Type return a+b below
+
+
+a = int(input())
+b = int(input())
+solveMeFirst(a,b)
